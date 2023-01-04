@@ -1,7 +1,5 @@
 # intro-to-github Test
-
-This is .....
-
+This is;....
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Github Code
