@@ -1,4 +1,4 @@
-# intro-to-github
+# intro-to-gitHub
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
